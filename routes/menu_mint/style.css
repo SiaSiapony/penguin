@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#container{
+    background-color: aquamarine;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+}
+#content{
+    color: #FFFF00;
+    front-size: 20px;
+    front-weight: 400px;
+    padding-top: 80px;
+}

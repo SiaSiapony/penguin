@@ -11,6 +11,7 @@ require('./database');
 
 var app = express();
 
+require("./routes/menu_mint/menu")
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
